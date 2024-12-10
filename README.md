@@ -1,3 +1,4 @@
 # Wireframe-and-Mockup
+wireframe for coffee website :cofe:
 ## link
-[link](https://www.figma.com/design/Sf1pzO5ihyA74qGWOIdG6t/Coffee-Shop-Website?node-id=5-188&node-type=canvas&t=xmkYlNDUSkzmhPXw-0)
+[link](https://www.figma.com/design/Sf1pzO5ihyA74qGWOIdG6t/Coffee-Shop-Website?node-id=54-288&node-type=frame&t=bEWnLkpZJ66sOjqX-0)
